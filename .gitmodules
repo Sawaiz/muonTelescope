@@ -1,0 +1,9 @@
+[submodule "dependency/scintilatorPanel"]
+	path = dependency/scintilatorPanel
+	url = git@github.com:Sawaiz/scintillatorPanel.git
+[submodule "dependency/mppcInterface"]
+	path = dependency/mppcInterface
+	url = git@github.com:Sawaiz/mppcInterface.git
+[submodule "dependency/mppcSensor"]
+	path = dependency/mppcSensor
+	url = git@github.com:Sawaiz/mppcSensor.git
